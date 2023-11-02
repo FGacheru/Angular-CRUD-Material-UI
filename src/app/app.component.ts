@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { MatDialog } from '@angular/material/dialog';
+import { AddEmployeeComponent } from './employee/add-employee/add-employee.component';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'angularCRUD';
+  constructor(private _dialog: MatDialog){}
+
+  addEmployeeForm(){
+    this._dialog.open(AddEmployeeComponent)
+  }
 }
