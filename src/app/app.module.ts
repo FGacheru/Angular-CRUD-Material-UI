@@ -22,6 +22,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { ReadEmployeeComponent } from './employee/read-employee/read-employee.component';
 import {MatTableModule} from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
+import { MatSortModule } from '@angular/material/sort';
 
 
 @NgModule({
@@ -49,7 +50,8 @@ import { MatPaginatorModule } from '@angular/material/paginator';
     ReactiveFormsModule,
     HttpClientModule,
     MatTableModule,
-    MatPaginatorModule
+    MatPaginatorModule,
+    MatSortModule
 
   ],
   providers: [],

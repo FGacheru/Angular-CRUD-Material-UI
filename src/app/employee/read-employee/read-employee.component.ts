@@ -50,4 +50,14 @@ export class ReadEmployeeComponent implements OnInit {
       }
     })
   }
+
+  deleteEmployee(id: number) {
+    this._empService.deleteEmployee(id).subscribe({
+      next: (res) => {
+        alert('Employee Deleted Succesfully');
+        this.getEmployeeList();
+      },
+      error: console.log,
+    })
+  }
 }

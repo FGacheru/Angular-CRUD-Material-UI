@@ -18,42 +18,6 @@
   },
   "employees": [
     {
-      "firstName": "Francis",
-      "lastName": "Gacheru",
-      "email": "gacheruf12@gmail.com",
-      "dob": "2016-02-01T21:00:00.000Z",
-      "gender": "male",
-      "education": "Graduate",
-      "company": "Emkay",
-      "experience": 4,
-      "package": 12,
-      "id": 1
-    },
-    {
-      "firstName": "Evans",
-      "lastName": "Thairu",
-      "email": "gacheruf12@gmail.com",
-      "dob": "2016-02-23T21:00:00.000Z",
-      "gender": "male",
-      "education": "Intermidiate",
-      "company": "Emkay",
-      "experience": 2,
-      "package": 10,
-      "id": 2
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "dob": "",
-      "gender": "",
-      "education": "",
-      "company": "",
-      "experience": 0,
-      "package": 0,
-      "id": 3
-    },
-    {
       "firstName": "Kelvin",
       "lastName": "Njoroge",
       "email": "kevin@gmail.com",
@@ -64,30 +28,6 @@
       "experience": 3,
       "package": 30000,
       "id": 4
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "dob": "",
-      "gender": "",
-      "education": "",
-      "company": "",
-      "experience": 0,
-      "package": 0,
-      "id": 5
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "dob": "",
-      "gender": "",
-      "education": "",
-      "company": "",
-      "experience": 0,
-      "package": 0,
-      "id": 6
     },
     {
       "firstName": "Kensky",
