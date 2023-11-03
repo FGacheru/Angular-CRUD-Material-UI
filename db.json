@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Kelvin",
+      "lastName": "Njoroge",
+      "email": "kevin@gmail.com",
+      "dob": "2020-11-02T21:00:00.000Z",
+      "gender": "male",
+      "education": "Intermidiate",
+      "company": "Google",
+      "experience": 3,
+      "package": 30000,
+      "id": 4
+    },
+    {
+      "firstName": "Kensky",
+      "lastName": "Kung'u",
+      "email": "kungu@gmail.com",
+      "dob": "2016-09-28T21:00:00.000Z",
+      "gender": "",
+      "education": "Graduate",
+      "company": "Emkay",
+      "experience": 5,
+      "package": 50000,
+      "id": 7
+    }
+  ]
+}
