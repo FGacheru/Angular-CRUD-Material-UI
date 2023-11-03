@@ -40,6 +40,66 @@
       "experience": 2,
       "package": 10,
       "id": 2
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": 0,
+      "package": 0,
+      "id": 3
+    },
+    {
+      "firstName": "Kelvin",
+      "lastName": "Njoroge",
+      "email": "kevin@gmail.com",
+      "dob": "2020-11-02T21:00:00.000Z",
+      "gender": "male",
+      "education": "Intermidiate",
+      "company": "Google",
+      "experience": 3,
+      "package": 30000,
+      "id": 4
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": 0,
+      "package": 0,
+      "id": 5
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "dob": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": 0,
+      "package": 0,
+      "id": 6
+    },
+    {
+      "firstName": "Kensky",
+      "lastName": "Kung'u",
+      "email": "kungu@gmail.com",
+      "dob": "2016-09-28T21:00:00.000Z",
+      "gender": "",
+      "education": "Graduate",
+      "company": "Emkay",
+      "experience": 5,
+      "package": 50000,
+      "id": 7
     }
   ]
 }

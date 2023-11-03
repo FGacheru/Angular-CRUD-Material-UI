@@ -20,6 +20,9 @@ import {MatRadioModule} from '@angular/material/radio';
 import { ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { ReadEmployeeComponent } from './employee/read-employee/read-employee.component';
+import {MatTableModule} from '@angular/material/table';
+import { MatPaginatorModule } from '@angular/material/paginator';
+
 
 @NgModule({
   declarations: [
@@ -44,7 +47,10 @@ import { ReadEmployeeComponent } from './employee/read-employee/read-employee.co
     MatNativeDateModule,
     MatRadioModule,
     ReactiveFormsModule,
-    HttpClientModule
+    HttpClientModule,
+    MatTableModule,
+    MatPaginatorModule
+
   ],
   providers: [],
   bootstrap: [AppComponent]
